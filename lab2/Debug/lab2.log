@@ -1,0 +1,5 @@
+﻿  lab2_1.cpp
+F:\lab2logic\lab2\lab2_1.cpp(38,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\lab2logic\lab2\lab2_1.cpp(48,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\lab2logic\lab2\lab2_1.cpp(76,18): warning C4244: =: преобразование "double" в "clock_t", возможна потеря данных
+  lab2.vcxproj -> F:\lab2logic\lab2\Debug\lab2.exe
